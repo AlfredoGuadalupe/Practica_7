@@ -19,5 +19,4 @@ int main(){
 	printf("%d\n",v2);	
 	printf("%s\n",v3);
 	return 0;
-
 }
