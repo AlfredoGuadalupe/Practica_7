@@ -34,5 +34,4 @@ int main(){
 	printf("Valores leidos\n");
 	printf("%hd\t%d\t%d\t%d\t%ld\t%ld\t%ld\t%hd\t%hd",_,__,v_1,v_2,v_3,a,b,c,d);
 	return 0;
-	
 }
