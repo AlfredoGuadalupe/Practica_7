@@ -18,5 +18,4 @@ int main(){
 	printf("%f\t%e\t%g\n",v_d,v_d,v_d);
 	printf("%Lf\t%Le\t%Lg\n",v_ld,v_ld,v_ld);
   return 0;
-
 }
